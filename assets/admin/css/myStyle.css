@@ -1,0 +1,20 @@
+/* header navbar */
+.label-danger {
+    background-color: transparent;
+}
+.label.rounded {
+    font-size: 14px;
+    color: #b0adac;
+}
+.navbar-toolbar .navbar-right .dropdown > a > i {
+    font-size: 15px;
+    color: #81b71b
+}
+
+.sidebar-menu .panel {
+    margin-bottom: 0
+}
+.sidebar-menu .panel .panel-search {
+    display: block;
+    background: #323232
+}
