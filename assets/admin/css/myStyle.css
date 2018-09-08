@@ -11,10 +11,23 @@
     color: #81b71b
 }
 
+/* ASIDE */
 .sidebar-menu .panel {
     margin-bottom: 0
 }
 .sidebar-menu .panel .panel-search {
     display: block;
     background: #323232
+}
+
+.ckbox.ckbox-theme {
+    display: inline;
+}
+
+.breadcrumb {
+    background-color : transparent;
+    padding: 0
+}
+select#Category {
+    width: 100%
 }
